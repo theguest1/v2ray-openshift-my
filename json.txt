@@ -8,16 +8,15 @@
     "settings": {
       "clients": [
         {
-          "id": "c8e1781d-6320-9d53-ce5d-8cda58b30819",
+          "id": "************************",
           "alterId": 64,
-	  "security": "chacha20-ploy1350"
+	  "security": "aes-128-cfb"
         }
       ]
     },
     "streamSettings": {
       "network": "ws",
-      "wsSettings": {
-      "path": "/websites"
+      "wsSettings"
       }
     }
   },
